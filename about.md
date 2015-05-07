@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Location: South of Korea
+Language: Korean
+Job: iOS Application Developer.
+Like: Apple, Snowboard
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+아이폰 앱 개발을 하고 있습니다. 개발,협업 관련 문의는 환영입니다.
 
-### Contact me
+### Contact Me
 
-[email@domain.com](mailto:email@domain.com)
+[ys.qwerty700@gmail.com](mailto:ys.qwerty700@gmail.com)
