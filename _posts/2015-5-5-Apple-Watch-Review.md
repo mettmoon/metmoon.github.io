@@ -2,7 +2,7 @@
 layout: post
 title: You're up and running!
 ---
-![apple watch image](/images/apple_watch_01.png)
+![apple watch image](/images/posts/apple_watch_01.png)
 애플워치 일주일 사용기
 =====
 
@@ -16,20 +16,20 @@ title: You're up and running!
 이제 시간을 확인하기 위해 아이폰을 찾지 말고 바로 손목으로 확인을 할 수 있습니다. 게다가 날씨, 일출/일몰, 스케쥴, 세계시간도 함께 확인이 가능합니다. 아이폰으로 가능하지만 애플워치만큼 빠르게 확인 할 수 있을까요? 애플워치는 당신에게 자주 필요로 하는 정보를 빠르고 정확하게 보여줍니다.
 
 
-![apple watch image](images/apple_watch_hands_on_01.jpg)
+![apple watch image](images/posts/apple_watch_hands_on_01.jpg)
 애플워치를 쳐다보는 것 만으로도 날짜, 스케쥴, 날씨 등 여러가지 정보를  빠르게 얻을 수 있습니다
 
 또한 워치는 당신의 행동과 상태를 분석 하여 기록합니다. 이에 대해서는 아래 **건강 및 휘트니스** 에서 자세히 얘기하겠습니다.
 
 ### 새로운 소통 방식 ###
-![apple watch hand on](images/apple_watch_02.png)
+![apple watch hand on](images/posts/apple_watch_02.png)
 애플은 새로운 소통 방식을 제안하는데요. *스케치 , 탭, 심박*을 보낼 수 있는 기능입니다. 따로 애플은 여기에대해 이름을 지은것 같진 않습니다. 그냥 새로운 소통 방식이라고 하네요. 이 새로운 소통 방식은 개인적으로 남녀간에 어울리는 로맨틱한 기술로 생각됩니다. 소통에 있어 아름다움은 친구나 가족간에 필요할까요?(~~때때로 필요할때도 있겠군요?~~) 이 기능은 지인분과 테스트하다가 왜인지 불편하면서 묘한 느낌이 들어 테스트를 빨리 종료했습니다.(~~지인은 남성~~) 연애할 때 강추 드리겠습니다.
 
 
 
 
 ### 건강 및 휘트니스 ###
-![apple watch hand on](images/apple_watch_hand_on_02.jpg)
+![apple watch hand on](images/posts/apple_watch_hand_on_02.jpg)
 만약에 당신이 운동을 좋아한다거나 관심이 있다면 그것만으로 애플워치를 살 이유가 될 것같네요. 필자는 운동을 자주 하진 않지만 좋아합니다. 하지만 애플워치로 인해 운동을 챙기게 되는군요. 
 
 실제로 운동을 하게 된다면 맥박이 얼마나 뛰는지 궁금 할 겁니다. 물론 안궁금하더래도 맥박과 키/몸무게 등의 데이터를 기반으로 당신이 얼마나 많은 칼로리를 소모했는지도 알려줍니다.
@@ -37,14 +37,14 @@ title: You're up and running!
 측정 방법로 실로 간단합니다. 단 1–2초의 조작으로 심박측정이 시작됩니다. 측정되는 시간은 10초정도 걸리는 것 같습니다.
 
 사무실에서 앉아서 일하시나요? 저는 개발자입니다. 실로 앉아있는 시간이 대부분이죠. 애플워치는 한시간에 1분정도는 일어나길 권합니다, 알림으로요. 알림이 오면 일어나서 조금 걷습니다. 그러면 또 알림이 옵니다. "잘했어요"
-![apple watch hand on](images/apple_watch_hand_on_03.jpg)
-![apple watch activity](images/iphone_activity_01.jpg)
+![apple watch hand on](images/posts/apple_watch_hand_on_03.jpg)
+![apple watch activity](images/posts/iphone_activity_01.jpg)
 측정된 데이터의 결과는 애플의 멋진 방식으로 보여줍니다.
 
 
 
 ### 디자인 ###
-![apple watch hand on](images/apple_watch_hand_on_04.jpg)
+![apple watch hand on](images/posts/apple_watch_hand_on_04.jpg)
 이 부분은 크게 얘기할게 없네요. 이쁩니다. 여타 나왔던 스마트워치들은 정말 디자인부분을 같이 논할 수 없을 수준입니다. 제가 육안으로 봤던 시계들은 갤럭시기어, 모토360, LG워치 어베인 LTE(이름도 길어라)를 보았었는데 애플워치가 나오기전에는 이게 괜찮니 크니 작니 했었는데 애플워치는 물이 다르다 랄까요? 애플 제품을 사랑하시는분들이라면 쉽게 와닿을탠데요. 거기서 조금 더 보태도 될것같습니다.
 38mm
 38mm를 구매햇는데요. 이전엔 시계를 항상 알이 큰시계가 간지라며 42mm 이상 시계만 사용했지만 기존에 출시한 스마트워치들을 보고는 괴물(~~너무 커서 군대용 같아~~)같아 스마트워치는 작은게 이쁘겠군 해서 38mm로 구매했습니다. 그 결과는 만족이네요. 42mm를 아직 보지 못했습니다. 42mm를 보면 어떨지 모르겠지만 38mm도 충분히 만족감을 주고 있습니다. 
