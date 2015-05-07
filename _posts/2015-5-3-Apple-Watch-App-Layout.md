@@ -2,8 +2,6 @@
 layout: post
 title: 애플워치 레이아웃 놀이
 ---
-애플워치 레이아웃 놀이
-=====
 [apple watch app layout](/images/posts/layout1.png)
 [apple watch app layout](/images/posts/layout2.png)
 
