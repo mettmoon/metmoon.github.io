@@ -1,3 +1,7 @@
+---
+layout: post
+title: 애플 - 애플워치앱 개발자 대상으로 테스트를 위한 초대장 배포
+---
 ![apple watch developer invite](/images/posts/apple_watch_developer_invite_01.png)
 애플이 애플워치개발을 하고 있는 개발자를 대상으로 테스트 할 수 있도록 초대장을 배포했습니다.
 

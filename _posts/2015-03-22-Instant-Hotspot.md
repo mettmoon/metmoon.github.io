@@ -1,3 +1,7 @@
+---
+layout: post
+title: 애플워치 배터리는 얼마나 갈까?
+---
 ![인스턴트 핫스팟](/images/posts/instant_hotspot_01.png)
 
 요세미티에서 Mac 과 iOS 디바이스 간에 연속성 기능 중 하나인 Instant Hotspot.
