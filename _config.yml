@@ -19,8 +19,8 @@ avatar: https://raw.githubusercontent.com/mettmoon/mettmoon.github.io/master/ima
 footer-links:
   dribbble:
   email: ys.qwerty700@gmail.com
-  facebook: https://www.facebook.com/yousung.moon
-  flickr:
+  facebook: yousung.moon
+  flickr: mettmoon
   github: mettmoon
   instagram: dos3d2d
   linkedin:
@@ -47,7 +47,7 @@ url: mettmoon.github.io
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: ""
+baseurl: "http://yourusername.github.io/master"
 
 #
 # !! You don't need to change any of the configuration flags below !!
