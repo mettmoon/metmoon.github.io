@@ -101,7 +101,7 @@ title: 애플워치 일주일 사용기
 
 
 ## 마침 ##
-![apple watch hand on image](/images/posts/apple_watch_hand_on10.jpg)
+![apple watch hand on image](/images/posts/apple_watch_hand_on_10.jpg)
 애플워치는 아이폰을 대체 할 수없습니다. 당신이 필요한 정보와 기능을 아이폰 대신 애플워치로 빠르게 편하게 제공함으로 당신에 시간을 절약해줄 것으로 생각됩니다.  아이폰이 짊어진 수많은 기능 중 애플워치가 쉽고 멋지게 다룰 수 있는 부분을 분담했다고 보면 될까요? 마치 핸즈오프로 맥이 아이폰의 일부 기능을 덜어간 것 처럼요. 기존에 없었던 기술이 아닌 좀더 알맞고 멋진 사용자 경험을 받게 될겁니다.
 
 
