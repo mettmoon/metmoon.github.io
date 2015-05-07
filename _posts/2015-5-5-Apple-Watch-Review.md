@@ -2,7 +2,7 @@
 layout: post
 title: You're up and running!
 ---
-![apple watch image](images/apple_watch_01.png)
+![apple watch image](/images/apple_watch_01.png)
 애플워치 일주일 사용기
 =====
 
