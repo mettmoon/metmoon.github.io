@@ -1,0 +1,9 @@
+- slug: digital
+  name: Digital Life
+  color: '#3498db'
+- slug: snowboard
+  name: Snowboard Life
+- slug: programming
+  name: Programming Life
+  color: '#1abc9c'
+  

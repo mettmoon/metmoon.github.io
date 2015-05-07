@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 애플워치 배터리는 얼마나 갈까?
+category: digital
+tags: [apple,applewatch]
 ---
 ![인스턴트 핫스팟](/images/posts/instant_hotspot_01.png)
 

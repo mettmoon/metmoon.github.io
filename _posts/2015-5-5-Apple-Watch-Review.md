@@ -1,6 +1,9 @@
 ---
 layout: post
 title: 애플워치 일주일 사용기
+category: digital
+tags: [apple,applewatch]
+
 ---
 ![apple watch image](/images/posts/apple_watch_01.png)
 애플워치 일주일 사용기

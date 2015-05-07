@@ -1,0 +1,18 @@
+- slug: ios
+  name: iOS    
+- slug: xcode
+  name: Xcode  
+- slug: osx
+  name: OS X
+- slug: apple
+  name: Apple
+- slug: applewatch
+  name: AppleWatch
+- slug: iphone
+  name: iPhone
+- slug: ipad
+  name: iPad
+- slug: macbook
+  name: Macbook
+- slug: imac
+  name: iMac

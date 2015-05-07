@@ -1,6 +1,10 @@
 ---
 layout: post
 title: iOS 8의 큰 아이폰 화면 지원하기
+category: programming
+tags: [ios,xcode]
+---
+
 ---
 아이폰 6와 아이폰 6 플러스가 출시하고 iOS8이 출시 한지 좀 지났는데요. 큰화면을 어떻게 지원하나요~ 라는 질문들을 많이 보게 되는거같아 그 방법에 대해 포스팅 해봅니다.
 
@@ -56,5 +60,3 @@ For iPhone 6 Plus:
 [iOS Human Interface Guidelines: Launch Image](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/LaunchImages.html)
 
 [App Distribution Guide](https://developer.apple.com/library/ios/documentation/IDEs/Conceptual/AppDistributionGuide/ConfiguringYourApp/ConfiguringYourApp.html#//apple_ref/doc/uid/TP40012582-CH28-SW4)
-
-tag:iOS,Xcode

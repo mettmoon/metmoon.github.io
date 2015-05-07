@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 2015. 2. 16. iOS 버전 점유율
+category: programming
+tags: [ios]
 ---
 ![iOS Graph](/images/posts/ios_graph_01.png)
 iOS7 이상이 97%네요.
