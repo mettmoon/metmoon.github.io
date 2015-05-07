@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 애플워치 일주일 사용기
 ---
 ![apple watch image](/images/posts/apple_watch_01.png)
 애플워치 일주일 사용기
@@ -110,7 +110,3 @@ title: You're up and running!
 애플워치의 모든 사양정보를 스프레드시트로 정리 : [Rob Griffiths - The all-in-one Apple Watch spreadsheet](http://robservatory.com/the-all-in-one-apple-watch-spreadsheet/#prettyPhoto)
 
 사이즈를 참고할 떄 : [Apple - 사이즈 가이드](http://store.apple.com/kr/watch/sizing-guide)
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
