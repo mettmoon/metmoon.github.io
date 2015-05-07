@@ -1,3 +1,8 @@
+---
+layout: post
+title: 활동 앱 목표도달 보상
+---
+
 오늘 애플워치의 운동 앱을 통해서 운동을 하고 나니 다음과 같은 푸시가 왔다.
 
 ![apple watch activity](/images/posts/apple_watch_activity_01.png)

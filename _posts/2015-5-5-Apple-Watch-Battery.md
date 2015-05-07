@@ -1,3 +1,8 @@
+---
+layout: post
+title: 애플워치 배터리는 얼마나 갈까?
+---
+
 ![apple watch](/images/posts/apple_watch_04.jpg)
 아침 7시30분쯤 착용하고 밤 12시40분에 자기위해 애플워치를 내려놓았다. 베터리 상테는 36%
 
