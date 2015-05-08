@@ -1,9 +1,9 @@
-------
+----
 layout: post
 title: 이번 프로젝트에서 작성 한 코드 라인 수
 category: programming
 tags: [ios,xcode]
-------
+----
 
 최근에 진행된 아이폰 어플리케이션 개발 프로젝트에서 외부 라이브러리를 제외한 입력 소스 코드 라인 수 입니다.
 
