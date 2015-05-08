@@ -3,7 +3,9 @@ layout: post
 title: TestFlight 애플 인수 후 첫 공개
 category: programming
 tags: [iphone]
-[Test Flight](/images/Test/Flight_01.png)
+-------------
+
+![Test Flight](/images/Test/Flight_01.png)
 
 애플이 오늘(2014. 10. 24)로 외부 테스터에 대한 내용을 공개했습니다.
 계정당 25명 내부 테스터

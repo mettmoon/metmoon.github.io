@@ -2,7 +2,6 @@
 layout: post
 title: PC 스토리지를 맥 스토리지로 마이그레이션
 category: digital
-tags: []
 ---------
 
 내가 뭔짓을 하는건지..
