@@ -1,5 +1,6 @@
 ---
 layout: default
+comments: true
 ---
 
 {% assign post = page %}
@@ -41,6 +42,7 @@ layout: default
         {% endif %}
 
         <p id="post-meta">Posted {{ category_content }}{{ tags_content }}</p>
+        {% include comments.html %}
   </div>
 
   <div class="date">
