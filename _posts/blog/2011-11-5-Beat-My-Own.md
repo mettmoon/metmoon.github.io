@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 비트메이커 - 자작 비트 - PlayFunny
 category: digital
 tag: [application]

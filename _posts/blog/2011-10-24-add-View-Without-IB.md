@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: [No! IB] View추가하기
+layout: post
+title: No! IB - View추가하기
 cateogry: programming
 tags: [ios]
 ---

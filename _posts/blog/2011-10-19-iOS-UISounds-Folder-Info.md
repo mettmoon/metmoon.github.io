@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: iOS UISounds 폴더 정보
 category: digital
 tags: [ios,iphone,ipad,jailbreak]

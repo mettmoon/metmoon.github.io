@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: Skullcandy TI (Rasta/Gold)
 category: snowboard
 tags: [accessory]

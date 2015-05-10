@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 현재 실행되고 있는 기기 이름 알아내기
 category: programming
 tags: [ios]

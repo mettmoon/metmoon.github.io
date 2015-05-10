@@ -1,6 +1,6 @@
 ---
-layout: posts
-title: [iOS5 탈옥] iBooks 실행불가 버그 잡기
+layout: post
+title: iOS5 탈옥 - iBooks 실행불가 버그 잡기
 category: digital
 tags: [jailbreak,iphone,ipad]
 ---

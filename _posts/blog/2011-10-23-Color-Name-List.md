@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: post
 title: 색상 이름표
 category: programming
 ---
