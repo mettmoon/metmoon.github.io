@@ -4,7 +4,7 @@ title: 가톨릭굿뉴스
 category: project
 tags: [ios,iphone]
 ---
-![가톨릭굿뉴스](/images/project/catholic_goodnews_01.jpeg)
+![가톨릭굿뉴스](/images/project/catholic_goodnews_01.png)
 
 
 ### Application Name
