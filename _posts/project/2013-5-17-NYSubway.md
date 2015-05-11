@@ -2,7 +2,8 @@
 layout: post
 title: NY Subway
 category: project
-tag: [ios,iphone,ipad]
+tags: [ios,iphone,ipad]
+
 ---
 ![NY Subway](/images/project/nysubway_01.png)
 

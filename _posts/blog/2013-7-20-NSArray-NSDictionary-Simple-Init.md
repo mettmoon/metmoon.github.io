@@ -3,6 +3,7 @@ layout: post
 title: NSArray와 NSDictionary 초기화를 간다하게 하기
 cateogry: programming
 tags: [ios]
+
 ---
 
 *NSArray*와 *NSDictionary*의 초기화를 간단히 하는 방법에 관한내용입니다.

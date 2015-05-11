@@ -3,6 +3,7 @@ layout: post
 title: 스노우보드부츠 - 디럭스 원 시리즈 델 마르
 category: snowboard
 tags: [boots]
+
 ---
 ![Del Mar Snowboard Boots](/images/posts/Del_Mar_Snowboard_Boots.jpg)
 

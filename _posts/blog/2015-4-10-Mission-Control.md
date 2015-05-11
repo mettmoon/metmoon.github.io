@@ -3,6 +3,7 @@ layout: post
 title: OS X 팁 - 미션 컨트롤 순서가 바뀔 때
 category: digital
 tags: [osx]
+
 ---
 다음과 같은 질문을 접하게 되었는데요
 

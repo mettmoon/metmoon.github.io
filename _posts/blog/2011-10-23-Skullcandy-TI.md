@@ -3,6 +3,7 @@ layout: post
 title: Skullcandy TI (Rasta/Gold)
 category: snowboard
 tags: [accessory]
+
 ---
 
 ![Skullcandy TI Gold foil rasta](/images/posts/skullcandy_ti_gold_foil_rasta_1.jpg)

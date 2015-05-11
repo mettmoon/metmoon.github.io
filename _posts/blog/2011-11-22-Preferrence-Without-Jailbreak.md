@@ -3,6 +3,7 @@ layout: post
 title: 탈옥없이 뛰어난 설정인터페이스
 category: digital
 tags: [iphone,ipad]
+
 ---
 ![broderick settings](/images/posts/broderick_settings_01.png)
 

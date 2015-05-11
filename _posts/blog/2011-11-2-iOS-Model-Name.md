@@ -3,6 +3,7 @@ layout: post
 title: 현재 실행되고 있는 기기 이름 알아내기
 category: programming
 tags: [ios]
+
 ---
 자기가 개발한 앱이 아이폰에서 실행될지 아이팟,아이패드가 될지 알아봅시다
 

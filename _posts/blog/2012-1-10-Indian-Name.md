@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 인디언식 이름 짓기
+category: humor
+
 ---
 태어난 뒷자리 년도
 

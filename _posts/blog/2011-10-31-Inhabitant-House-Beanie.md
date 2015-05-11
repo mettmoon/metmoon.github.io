@@ -3,6 +3,7 @@ layout: post
 title: INHABITANT IH178HW68 HOUSE BEANIE (인하비턴트 하우스 울비니)
 category: snowboard
 tags: [accessory]
+
 ---
 ![이니하비턴트 비니](/images/posts/inhabitant_02.gif)
 

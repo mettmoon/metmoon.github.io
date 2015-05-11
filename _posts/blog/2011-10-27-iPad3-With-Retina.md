@@ -3,6 +3,7 @@ layout: post
 title: 루머 - 아이패드3이 2048 x 1536 디스플레이를 탑제하여 12월 생산에 들어간다고 합니다.
 category: digital
 tags: [ipad]
+
 ---
 유명한 블로거 Brooke Crothers 가 2048 x 1536 디스플레이를 장착한 아이패드3이 12월부터 생산에 들어간다고 합니다.
 

@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 사천해수욕장 일출
+category: life
+tags: [photo]
 ---
 ![사천해수욕장 일출 사진](/images/posts/seocheon_01.jpg)
 

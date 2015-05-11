@@ -1,8 +1,9 @@
 ---
 layout: post
 title: No! IB - View추가하기
-cateogry: programming
+category: programming
 tags: [ios]
+
 ---
 
 최종 View 위에 Object들이 보이기까지 무엇을 인스턴스해서 넣어야 할까?

@@ -2,7 +2,8 @@
 layout: post
 title: 리그 오브 레전드
 category: digital
-tags: [games]
+tags: [game]
+
 ---
 ![League of Legends](/images/posts/lol_01.jpg)
 

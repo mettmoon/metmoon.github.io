@@ -3,6 +3,7 @@ layout: post
 title: 객체가 스스로 초기화 되었다??
 cateogry: programming
 tag: [ios]
+
 ---
 `(void)viewDidLoad` 에서 해당 객체를 초기화 하고 사용했는데 다음에 다시 참조하려 하니 해당 객체가 `nil` 값이 들어있었다. 
 

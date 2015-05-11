@@ -3,6 +3,7 @@ layout: post
 title: iOS5 탈옥 - iBooks 실행불가 버그 잡기
 category: digital
 tags: [jailbreak,iphone,ipad]
+
 ---
 
 iOS5를 탈옥하시고 iBooks를 실행해보셨다면 앱이 크래쉬 나는 걸 볼거에요.

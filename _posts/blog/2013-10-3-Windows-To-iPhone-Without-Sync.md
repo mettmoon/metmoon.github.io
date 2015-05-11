@@ -3,6 +3,7 @@ layout: post
 title: Windows에서 아이폰으로 동기화 없이 사진 보내는법
 cateogry: digital
 tags: [iphone,windows]
+
 ---
 들어가며
 

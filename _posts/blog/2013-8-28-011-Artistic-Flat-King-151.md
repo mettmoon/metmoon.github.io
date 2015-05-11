@@ -3,6 +3,7 @@ layout: post
 title: 13/14 011 Artistic Flat King 151
 category: snowboard
 tag: [deck]
+
 ---
 ![011 Artistic Flat King 151](/images/posts/flat_king_151_01.png)
 

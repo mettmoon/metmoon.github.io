@@ -3,6 +3,7 @@ layout: post
 title: Siri가 아이폰 3Gs에서도 잘돌아갑니다.
 category: digital
 tags: [iphone]
+
 ---
 아이폰4에서도 Siri가 잘 돌아가는 유투브영상이 올라왔었는데요.
 

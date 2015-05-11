@@ -3,6 +3,7 @@ layout: post
 title: 14/15 시즌 장비 준비
 category: snowboard
 tags: [boots,deck,binding]
+
 ---
 
 올해도 어김없이 새상품으로 풀세팅했네요..

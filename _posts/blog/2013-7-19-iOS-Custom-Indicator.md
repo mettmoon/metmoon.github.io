@@ -2,7 +2,8 @@
 layout: post
 title: iOS Custom Indicator
 cateogry: programming
-tag: [ios]
+tags: [ios]
+
 ---
 
 커스텀 인디케이터 만드는 방법입니다.

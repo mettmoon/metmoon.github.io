@@ -2,6 +2,8 @@
 layout: post
 title: BBFactory 11/12 신상 후디
 category: snowboard
+tags: [wear]
+
 ---
 ![BBFactory Logo](/images/posts/bbfactory.jpg)
 

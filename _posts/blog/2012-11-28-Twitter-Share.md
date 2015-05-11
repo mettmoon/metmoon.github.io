@@ -2,7 +2,8 @@
 layout: post
 title: 트위터 공유기능 붙히기(iOS 5 이상)
 category: programming
-tag: [iOS]
+tags: [iOS]
+
 ---
 트위터 공유기능을 넣으려고 보니까 아주 쉬워서 포스팅합니다.
 

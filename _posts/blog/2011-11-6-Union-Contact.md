@@ -3,6 +3,7 @@ layout: post
 title: 11/12 UNION Contact - cmyk
 category: snowboard
 tags: [boots]
+
 ---
 ![Union Binding - Contact - cmyk](/images/posts/Union_binding.jpg)
 

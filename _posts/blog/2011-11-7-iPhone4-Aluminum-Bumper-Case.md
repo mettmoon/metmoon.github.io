@@ -1,8 +1,9 @@
 ---
 layout: post
 title: 아이폰4(4s호환) i+Case 알루니늄 범퍼케이스
-cateogry: digital
+category: digital
 tags: [iphone, accessory]
+
 ---
 ![i+Case](/images/posts/i_case_01.jpg)
 

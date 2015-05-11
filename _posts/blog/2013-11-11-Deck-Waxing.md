@@ -2,6 +2,7 @@
 laout: post
 title: 보관왁싱 스크래핑 작업
 category: snowboard
+
 ---
 
 휘팍이 오늘 오픈했다네요~(오픈 현장스케치)

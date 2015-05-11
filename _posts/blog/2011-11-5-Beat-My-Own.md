@@ -2,7 +2,8 @@
 layout: post
 title: 비트메이커 - 자작 비트 - PlayFunny
 category: digital
-tag: [application]
+tags: [application]
+
 ---
 
 Beatmaker 2 로 제작한 곡입니다. 심심할때 끄적끄적해서 만들었습니다.

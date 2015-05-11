@@ -1,5 +1,6 @@
 ---
 layout: blog_by_tag
-tag: iPhone
+tag: iphone
 permalink: /blog/tag/iPhone/
+
 ---

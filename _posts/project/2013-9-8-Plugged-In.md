@@ -3,6 +3,7 @@ layout: post
 title: Plugged In
 category: project
 tags: [ios,iphone,ipad]
+
 ---
 ![Plugged In](/images/project/pluggedin_01.png)
 

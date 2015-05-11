@@ -3,6 +3,7 @@ layout: post
 title: 애플워치 배터리는 얼마나 갈까?
 category: digital
 tags: [apple,applewatch]
+
 ---
 
 ![apple watch](/images/posts/apple_watch_04.jpg)

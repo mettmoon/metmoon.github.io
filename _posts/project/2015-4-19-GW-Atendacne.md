@@ -3,6 +3,7 @@ layout: post
 title: 광운대학교 출석체크
 category: project
 tags: [ios,iphone,ipad]
+
 ---
 ![광운대학교 출석체크](/images/project/gw_attendance_01.png)
 

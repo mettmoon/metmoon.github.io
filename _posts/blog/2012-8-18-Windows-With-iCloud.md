@@ -3,6 +3,7 @@ layout: post
 title: Windows(7이상)에서 iCloud이용하기
 cateogry: digital
 tags: [iphone,windows]
+
 ---
 ![iCloud icon](/images/posts/icloud_01.png)
 
