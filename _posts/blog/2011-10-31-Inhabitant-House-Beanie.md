@@ -5,6 +5,7 @@ category: snowboard
 tags: [accessory]
 ---
 ![이니하비턴트 비니](/images/posts/inhabitant_02.gif)
+
 인하비턴트 하우스 울비니입니다! 너무 이쁘네요. 털이 부드러워 아기 강아지 목욕하고 물기 덜말랐을때 느낌이랄까
 
 다른 인하비 신상 하우스 비니와 느낌이 완전다릅니다. 매우 따듯한느낌 >_<

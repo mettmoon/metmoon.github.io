@@ -6,7 +6,9 @@ tags: [accessory]
 ---
 
 ![Skullcandy TI Gold foil rasta](/images/posts/skullcandy_ti_gold_foil_rasta_1.jpg)
+
 ![Skullcandy TI Gold foil rasta](/images/posts/skullcandy_ti_gold_foil_rasta_2.jpg)
+
 ![Skullcandy TI Gold foil rasta](/images/posts/skullcandy_ti_gold_foil_rasta_3.jpg)
 
 #### Specification ####

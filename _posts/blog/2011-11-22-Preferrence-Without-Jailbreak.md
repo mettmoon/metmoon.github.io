@@ -5,6 +5,7 @@ category: digital
 tags: [iphone,ipad]
 ---
 ![broderick settings](/images/posts/broderick_settings_01.png)
+
 탈옥없이 URL을 이용하여 다양한 기능들을 제공하는 Jeff Broderick 이 순정아이폰에서 쉽게 설정을 할수 있는 방법을 배포했습니다.
 
 아이폰의 perf 프로토콜을 이용한 방법인데요.(~~뭔소리~~) URL를 이용하여 설정창의 세부 페이지로 이동을 시켜주는 방법입니다.
