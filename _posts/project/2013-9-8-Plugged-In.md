@@ -4,7 +4,7 @@ title: Plugged In
 category: project
 tags: [ios,iphone,ipad]
 ---
-![Plugged In](/images/project/plugged_in_01.jpeg)
+![Plugged In](/images/project/pluggedin_01.png)
 
 ### Application Name
 
