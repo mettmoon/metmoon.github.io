@@ -19,18 +19,19 @@ tags: [ios,iphone]
 
 ### Feature
 
-아이폰의 3.5, 4, 4.7, 5.5 인치 등 다양한 스크린 지원
-골프클럽 예약 기능
-푸시알림
+* 아이폰의 3.5, 4, 4.7, 5.5 인치 등 다양한 스크린 지원
+* 골프클럽 예약 기능
+* 푸시알림
 
 
 ### Jobs
 
-전반적 개발 업무 수행.
+* 전반적 개발 업무 수행.
 
 
 ### Technique
-Autolayout
-Version compatibility(iOS7,iOS8)
-Dynamic Screen compatibility
-Web Connection
+
+* Autolayout
+* Version compatibility(iOS7,iOS8)
+* Dynamic Screen compatibility
+* Web Connection

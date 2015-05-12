@@ -20,23 +20,23 @@ tags: [ios,iphone]
 
 ### Feature
 
-iPhone 3.5inch, iPhone 4inch , iPad 등 다양한 스크린 지원
-날짜별 미사 제공.
-성가의 악보 및 음원 재생 기능.
-인터넷 커넥션 없이 이용가능.
-성경 검색 및 스크랩 기능 제공.
-주보 이미지 잡지뷰어 형태로 제공.
+* iPhone 3.5inch, iPhone 4inch , iPad 등 다양한 스크린 지원
+* 날짜별 미사 제공.
+* 성가의 악보 및 음원 재생 기능.
+* 인터넷 커넥션 없이 이용가능.
+* 성경 검색 및 스크랩 기능 제공.
+* 주보 이미지 잡지뷰어 형태로 제공.
 
 
 ### Jobs
 
-서버를 제외한 iOS 개발 업무 수행.
-기존 앱 통합.
+* 서버를 제외한 iOS 개발 업무 수행.
+* 기존 앱 통합.
 
 
 ### Technique
-Autolayout
-Version compatibility(iOS6,iOS7)
-Dynamic Screen compatibility
-Landscape Mode compatibility
-Sqlite
+* Autolayout
+* Version compatibility(iOS6,iOS7)
+* Dynamic Screen compatibility
+* Landscape Mode compatibility
+* Sqlite

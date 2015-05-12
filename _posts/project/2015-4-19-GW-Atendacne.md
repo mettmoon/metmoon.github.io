@@ -19,19 +19,20 @@ tags: [ios,iphone,ipad]
 
 ### Feature
 
-비콘을 이용한 출결관리
-수강정보 알림
-위젯을 이용한 쉬운 정보 열람
+* 비콘을 이용한 출결관리
+* 수강정보 알림
+* 위젯을 이용한 쉬운 정보 열람
 
 
 ### Jobs
 
-iOS 전반적 개발 업무 수행.
+* iOS 전반적 개발 업무 수행.
 
 
 ### Technique
-Autolayout
-SizeClass
-Interactive Notification
-Today Extension
-Web Connection
+
+* Autolayout
+* SizeClass
+* Interactive Notification
+* Today Extension
+* Web Connection

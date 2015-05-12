@@ -27,16 +27,10 @@ iPhone 3.5inch, iPhone 4inch 등 다양한 스크린 지원
 
 ### Jobs
 
-전반적 개발 업무 수행.
-뉴욕 지하철 DB 분석.
-경로 찾기 알고리즘 개발.
-UI/UX 디자인.
-Front 개발.
+* 전반적 개발 업무 수행.
 
 
 ### Technique
-Autolayout
-Version compatibility(iOS5,iOS6)
-Dynamic Screen compatibility
-Navigator
-Localizable
+* Autolayout
+* Version compatibility(iOS6,iOS8)
+* Dynamic Screen compatibility

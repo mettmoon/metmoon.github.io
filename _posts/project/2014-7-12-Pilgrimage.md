@@ -19,21 +19,22 @@ tags: [ios,iphone]
 
 ### Feature
 
-지오팬스와 비콘을 활용한 포인트의 정보 알림
-음성인식 메뉴연결
-지도에 경로표시를 활용한 네비게이션
+* 지오팬스와 비콘을 활용한 포인트의 정보 알림
+* 음성인식 메뉴연결
+* 지도에 경로표시를 활용한 네비게이션
 
 
 ### Jobs
 
-전반적 개발 업무 수행.
+* 전반적 개발 업무 수행.
 
 
 ### Technique
-Autolayout
-Version compatibility(iOS6,iOS7)
-Voice Recognizing
-Map Kit
-Geofence
-iBeacon
-Web Connection
+
+* Autolayout
+* Version compatibility(iOS6,iOS7)
+* Voice Recognizing
+* Map Kit
+* Geofence
+* iBeacon
+* Web Connection

@@ -20,17 +20,17 @@ NY Subway([App Store Link](https://itunes.apple.com/app/ny-subway+/id643221088?m
 
 ### Feature
 
-iPhone 3.5inch, iPhone 4inch , iPad 등 다양한 스크린 지원
-뉴욕 지하철에서 쓰는 지도 화면에서 선택, 검색.
-해당 위치까지 시간,환승정보 제공.
-시간대별로 가능한 경로 제공.
-인터넷 커넥션 없이 이용가능.
-다국어 지원(English, Spanish, Korean, Japanese,Portuguese)
+* iPhone 3.5inch, iPhone 4inch , iPad 등 다양한 스크린 지원
+* 뉴욕 지하철에서 쓰는 지도 화면에서 선택, 검색.
+* 해당 위치까지 시간,환승정보 제공.
+* 시간대별로 가능한 경로 제공.
+* 인터넷 커넥션 없이 이용가능.
+* 다국어 지원(English, Spanish, Korean, Japanese,Portuguese)
 
 
 ### Technique
-Autolayout
-Version compatibility(iOS5,iOS6)
-Dynamic Screen compatibility
-Navigator
-Localizable
+* Autolayout
+* Version compatibility(iOS5,iOS6)
+* Dynamic Screen compatibility
+* Navigator
+* Localizable
