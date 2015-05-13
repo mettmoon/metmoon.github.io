@@ -14,7 +14,7 @@
 /**************/
 
 html {
-  font-size: 120%;
+  font-size: 100%;
 }
 
 body {
@@ -35,12 +35,12 @@ h1, h2, h3, h4, h5, h6 {
   color: $darkerGray;
   font-weight: bold;
 
-  line-height: 1.7;
+  line-height: 1.9;
   margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
-    line-height: 1.4;
+    line-height: 1.6;
   }
 }
 
