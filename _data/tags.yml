@@ -59,7 +59,7 @@
   name: Xcode
   
 - slug: objc
-- name: Objective-C
+  name: Objective-C
 
 - slug: swift
-- name: Swift
+  name: Swift
