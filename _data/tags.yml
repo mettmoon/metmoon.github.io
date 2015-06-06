@@ -1,40 +1,65 @@
 - slug: acessory
   name: Accessory
+  
 - slug: apple
   name: Apple
+  
 - slug: applewatch
   name: AppleWatch
+  
 - slug: binding
   name: Binding
+  
 - slug: boots
   name: Boots
+  
 - slug: coffee
   name: Coffee
+  
 - slug: cydia
   name: Cydia
+  
 - slug: deck
   name: Deck
+  
 - slug: game
   name: Game
+  
 - slug: imac
   name: iMac
+  
 - slug: ios
-  name: iOS    
+  name: iOS
+  
 - slug: ipad
   name: iPad
+  
 - slug: iphone
   name: iPhone
+  
 - slug: jailbreak
   name: Jailbreak
+  
 - slug: macbook
   name: Macbook
+  
 - slug: osx
   name: OS X
+  
 - slug: photo
   name: Photo
+  
 - slug: wear
   name: Wear
+  
 - slug: windows
   name: Windwos
+  
 - slug: xcode
-  name: Xcode  
+  name: Xcode
+  
+- slug: objc
+  name: Objective-C
+
+- slug: swift
+  name: Swift
