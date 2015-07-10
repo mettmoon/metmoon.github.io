@@ -1,21 +1,9 @@
-- slug: digital
-  name: Digital Life
-  color: '#E264A9'
-- slug: snowboard
-  name: Snowboard Life
-  color: '#D8634F'
 - slug: programming
   name: Programming Life
   color: '#634A46'
-- slug: life
-  name: Usual Day
-  color: '#74496C'
 - slug: info
   name: Info
   color: '#AE8858'
-- slug: humor
-  name: Humor
-  color: '#9281CD'
 - slug: project
   name: Proejct
   color: '#00A695'

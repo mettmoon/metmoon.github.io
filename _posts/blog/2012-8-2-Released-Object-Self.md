@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 객체가 스스로 초기화 되었다??
-cateogry: programming
+category: programming
 tag: [ios]
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: iOS Custom Indicator
-cateogry: programming
+category: programming
 tags: [ios]
 
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: NSArray와 NSDictionary 초기화를 간다하게 하기
-cateogry: programming
+category: programming
 tags: [ios]
 
 ---
