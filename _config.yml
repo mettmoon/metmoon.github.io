@@ -55,10 +55,9 @@ baseurl: ""
 
 markdown: kramdown
 kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+input: GFM
+syntax_highlighter: rouge
 
-highlighter: pygments
 permalink: /:title/
 
 # The release of Jekyll Now that you're using
