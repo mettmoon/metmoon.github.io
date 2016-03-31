@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Hayden Moon
+name: AwesomeCocoa
 
 # Short bio or description (displayed in the header)
-description: iOS Developer from Korea, Republic of
+description: iOS Programmer from Korea, Republic of
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/mettmoon/mettmoon.github.io/master/images/me_avatar.png
@@ -17,18 +17,18 @@ avatar: https://raw.githubusercontent.com/mettmoon/mettmoon.github.io/master/ima
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email: ys.qwerty700@gmail.com
+  dribbble: petermoon
+  email: peter.iosdev@gmail.com
   facebook: yousung.moon
   flickr: mettmoon
   github: mettmoon
   instagram: dos3d2d
-  linkedin:
+  linkedin: peter-moon-329a8764
   pinterest: ys_qwerty700
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: mettmoon
-  stackoverflow: users/2552152/hayden-moon
-  youtube: https://www.youtube.com/channel/UCUIZiQtdUd-hVaiPf7fXzMg
+  stackoverflow: users/2552152
+  youtube: user/MettMoon
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 

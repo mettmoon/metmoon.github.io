@@ -1,0 +1,373 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/local/bin/node',
+1 verbose cli   '/usr/local/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   '-g',
+1 verbose cli   'parse',
+1 verbose cli   '-server',
+1 verbose cli   'mongodb-runner' ]
+2 info using npm@2.14.20
+3 info using node@v4.4.1
+4 verbose install initial load of /usr/local/lib/package.json
+5 verbose readDependencies loading dependencies from /usr/local/lib/package.json
+6 silly cache add args [ 'parse', null ]
+7 verbose cache add spec parse
+8 silly cache add args [ 'mongodb-runner', null ]
+9 verbose cache add spec mongodb-runner
+10 silly cache add parsed spec Result {
+10 silly cache add   raw: 'parse',
+10 silly cache add   scope: null,
+10 silly cache add   name: 'parse',
+10 silly cache add   rawSpec: '',
+10 silly cache add   spec: 'latest',
+10 silly cache add   type: 'tag' }
+11 silly addNamed parse@latest
+12 verbose addNamed "latest" is being treated as a dist-tag for parse
+13 info addNameTag [ 'parse', 'latest' ]
+14 silly mapToRegistry name parse
+15 silly mapToRegistry using default registry
+16 silly mapToRegistry registry https://registry.npmjs.org/
+17 silly mapToRegistry uri https://registry.npmjs.org/parse
+18 verbose addNameTag registry:https://registry.npmjs.org/parse not in flight; fetching
+19 silly cache add parsed spec Result {
+19 silly cache add   raw: 'mongodb-runner',
+19 silly cache add   scope: null,
+19 silly cache add   name: 'mongodb-runner',
+19 silly cache add   rawSpec: '',
+19 silly cache add   spec: 'latest',
+19 silly cache add   type: 'tag' }
+20 silly addNamed mongodb-runner@latest
+21 verbose addNamed "latest" is being treated as a dist-tag for mongodb-runner
+22 info addNameTag [ 'mongodb-runner', 'latest' ]
+23 silly mapToRegistry name mongodb-runner
+24 silly mapToRegistry using default registry
+25 silly mapToRegistry registry https://registry.npmjs.org/
+26 silly mapToRegistry uri https://registry.npmjs.org/mongodb-runner
+27 verbose addNameTag registry:https://registry.npmjs.org/mongodb-runner not in flight; fetching
+28 verbose request uri https://registry.npmjs.org/parse
+29 verbose request no auth needed
+30 info attempt registry request try #1 at 4:21:48 AM
+31 verbose request id 9a8c4fc6d46a24bf
+32 http request GET https://registry.npmjs.org/parse
+33 verbose request uri https://registry.npmjs.org/mongodb-runner
+34 verbose request no auth needed
+35 info attempt registry request try #1 at 4:21:48 AM
+36 http request GET https://registry.npmjs.org/mongodb-runner
+37 http 200 https://registry.npmjs.org/parse
+38 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+38 verbose headers   etag: '"89UZC2LFEDP7K9CVSEQ62KHI8"',
+38 verbose headers   'content-type': 'application/json',
+38 verbose headers   'cache-control': 'max-age=300',
+38 verbose headers   'content-length': '56846',
+38 verbose headers   'accept-ranges': 'bytes',
+38 verbose headers   date: 'Fri, 25 Mar 2016 19:21:49 GMT',
+38 verbose headers   via: '1.1 varnish',
+38 verbose headers   age: '0',
+38 verbose headers   connection: 'keep-alive',
+38 verbose headers   'x-served-by': 'cache-nrt6124-NRT',
+38 verbose headers   'x-cache': 'MISS',
+38 verbose headers   'x-cache-hits': '0',
+38 verbose headers   'x-timer': 'S1458933709.175695,VS0,VE757',
+38 verbose headers   vary: 'Accept' }
+39 silly get cb [ 200,
+39 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+39 silly get     etag: '"89UZC2LFEDP7K9CVSEQ62KHI8"',
+39 silly get     'content-type': 'application/json',
+39 silly get     'cache-control': 'max-age=300',
+39 silly get     'content-length': '56846',
+39 silly get     'accept-ranges': 'bytes',
+39 silly get     date: 'Fri, 25 Mar 2016 19:21:49 GMT',
+39 silly get     via: '1.1 varnish',
+39 silly get     age: '0',
+39 silly get     connection: 'keep-alive',
+39 silly get     'x-served-by': 'cache-nrt6124-NRT',
+39 silly get     'x-cache': 'MISS',
+39 silly get     'x-cache-hits': '0',
+39 silly get     'x-timer': 'S1458933709.175695,VS0,VE757',
+39 silly get     vary: 'Accept' } ]
+40 verbose get saving parse to /Users/Hayden/.npm/registry.npmjs.org/parse/.cache.json
+41 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+42 verbose makeDirectory /Users/Hayden/.npm creation not in flight; initializing
+43 silly makeDirectory /Users/Hayden/.npm uid: 501 gid: 20
+44 silly addNameTag next cb for parse with tag latest
+45 silly addNamed parse@1.8.1
+46 verbose addNamed "1.8.1" is a plain semver version for parse
+47 silly mapToRegistry name parse
+48 silly mapToRegistry using default registry
+49 silly mapToRegistry registry https://registry.npmjs.org/
+50 silly mapToRegistry uri https://registry.npmjs.org/parse
+51 verbose addRemoteTarball https://registry.npmjs.org/parse/-/parse-1.8.1.tgz not in flight; adding
+52 verbose addRemoteTarball [ 'https://registry.npmjs.org/parse/-/parse-1.8.1.tgz',
+52 verbose addRemoteTarball   'a4bc8886c4715344a388634aad696b11c3ff43b5' ]
+53 info retry fetch attempt 1 at 4:21:50 AM
+54 info attempt registry request try #1 at 4:21:50 AM
+55 http fetch GET https://registry.npmjs.org/parse/-/parse-1.8.1.tgz
+56 http 200 https://registry.npmjs.org/mongodb-runner
+57 verbose headers { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+57 verbose headers   etag: '"5VIYSHOBQNOESI7G9KQRP4MLL"',
+57 verbose headers   'content-type': 'application/json',
+57 verbose headers   'cache-control': 'max-age=300',
+57 verbose headers   'content-length': '81661',
+57 verbose headers   'accept-ranges': 'bytes',
+57 verbose headers   date: 'Fri, 25 Mar 2016 19:21:50 GMT',
+57 verbose headers   via: '1.1 varnish',
+57 verbose headers   age: '0',
+57 verbose headers   connection: 'keep-alive',
+57 verbose headers   'x-served-by': 'cache-nrt6125-NRT',
+57 verbose headers   'x-cache': 'MISS',
+57 verbose headers   'x-cache-hits': '0',
+57 verbose headers   'x-timer': 'S1458933709.167499,VS0,VE1031',
+57 verbose headers   vary: 'Accept' }
+58 silly get cb [ 200,
+58 silly get   { server: 'CouchDB/1.5.0 (Erlang OTP/R16B03)',
+58 silly get     etag: '"5VIYSHOBQNOESI7G9KQRP4MLL"',
+58 silly get     'content-type': 'application/json',
+58 silly get     'cache-control': 'max-age=300',
+58 silly get     'content-length': '81661',
+58 silly get     'accept-ranges': 'bytes',
+58 silly get     date: 'Fri, 25 Mar 2016 19:21:50 GMT',
+58 silly get     via: '1.1 varnish',
+58 silly get     age: '0',
+58 silly get     connection: 'keep-alive',
+58 silly get     'x-served-by': 'cache-nrt6125-NRT',
+58 silly get     'x-cache': 'MISS',
+58 silly get     'x-cache-hits': '0',
+58 silly get     'x-timer': 'S1458933709.167499,VS0,VE1031',
+58 silly get     vary: 'Accept' } ]
+59 verbose get saving mongodb-runner to /Users/Hayden/.npm/registry.npmjs.org/mongodb-runner/.cache.json
+60 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+61 silly addNameTag next cb for mongodb-runner with tag latest
+62 silly addNamed mongodb-runner@3.2.0
+63 verbose addNamed "3.2.0" is a plain semver version for mongodb-runner
+64 silly mapToRegistry name mongodb-runner
+65 silly mapToRegistry using default registry
+66 silly mapToRegistry registry https://registry.npmjs.org/
+67 silly mapToRegistry uri https://registry.npmjs.org/mongodb-runner
+68 verbose addRemoteTarball https://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz not in flight; adding
+69 verbose addRemoteTarball [ 'https://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz',
+69 verbose addRemoteTarball   '0c184a1e35f7aed19bc2d868ff5af36b23de590a' ]
+70 info retry fetch attempt 1 at 4:21:50 AM
+71 info attempt registry request try #1 at 4:21:50 AM
+72 http fetch GET https://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz
+73 http fetch 200 https://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz
+74 silly fetchAndShaCheck shasum 0c184a1e35f7aed19bc2d868ff5af36b23de590a
+75 verbose addTmpTarball /var/folders/pc/r2wm_6917h99mt814hqzqnj40000gn/T/npm-96026-354c2fe1/registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz not in flight; adding
+76 verbose addTmpTarball already have metadata; skipping unpack for mongodb-runner@3.2.0
+77 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+78 silly cache afterAdd mongodb-runner@3.2.0
+79 verbose afterAdd /Users/Hayden/.npm/mongodb-runner/3.2.0/package/package.json not in flight; writing
+80 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+81 verbose afterAdd /Users/Hayden/.npm/mongodb-runner/3.2.0/package/package.json written
+82 http fetch 200 https://registry.npmjs.org/parse/-/parse-1.8.1.tgz
+83 silly fetchAndShaCheck shasum a4bc8886c4715344a388634aad696b11c3ff43b5
+84 verbose addTmpTarball /var/folders/pc/r2wm_6917h99mt814hqzqnj40000gn/T/npm-96026-354c2fe1/registry.npmjs.org/parse/-/parse-1.8.1.tgz not in flight; adding
+85 verbose addTmpTarball already have metadata; skipping unpack for parse@1.8.1
+86 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+87 silly cache afterAdd parse@1.8.1
+88 verbose afterAdd /Users/Hayden/.npm/parse/1.8.1/package/package.json not in flight; writing
+89 verbose correctMkdir /Users/Hayden/.npm correctMkdir not in flight; initializing
+90 verbose afterAdd /Users/Hayden/.npm/parse/1.8.1/package/package.json written
+91 silly install resolved [ { name: 'mongodb-runner',
+91 silly install resolved     version: '3.2.0',
+91 silly install resolved     author:
+91 silly install resolved      { name: 'Lucas Hrabovsky',
+91 silly install resolved        email: 'hrabovsky.lucas@gmail.com',
+91 silly install resolved        url: 'http://imlucas.com' },
+91 silly install resolved     description: 'Starts all of the deployment types for testing',
+91 silly install resolved     scripts:
+91 silly install resolved      { fmt: 'mongodb-js-fmt mocha/*.js ./*.js bin/*.js lib/*.js test/*.js',
+91 silly install resolved        check: 'mongodb-js-precommit',
+91 silly install resolved        test: 'mocha',
+91 silly install resolved        ci: './node_modules/istanbul/lib/cli.js cover _mocha -- -R spec ./test/*.test.js' },
+91 silly install resolved     bin: { 'mongodb-runner': './bin/mongodb-runner.js' },
+91 silly install resolved     homepage: 'http://github.com/mongodb-js/runner',
+91 silly install resolved     repository: { type: 'git', url: 'git://github.com/mongodb-js/runner.git' },
+91 silly install resolved     check: { entries: [Object], ignore: [Object] },
+91 silly install resolved     'dependency-check': { entries: [Object] },
+91 silly install resolved     precommit: [ 'check' ],
+91 silly install resolved     keywords: [ 'mongodb', 'mongodb.js' ],
+91 silly install resolved     license: 'Apache-2.0',
+91 silly install resolved     dependencies:
+91 silly install resolved      { async: '^1.5.2',
+91 silly install resolved        clui: '^0.3.1',
+91 silly install resolved        debug: '^2.2.0',
+91 silly install resolved        'fs-extra': '^0.26.7',
+91 silly install resolved        'is-mongodb-running': '0.0.1',
+91 silly install resolved        'lodash.defaults': '^4.0.1',
+91 silly install resolved        minimist: '^1.2.0',
+91 silly install resolved        mkdirp: '^0.5.1',
+91 silly install resolved        mongodb: '^2.1.1',
+91 silly install resolved        'mongodb-dbpath': '^0.0.1',
+91 silly install resolved        'mongodb-tools': 'github:mongodb-js/mongodb-tools',
+91 silly install resolved        'mongodb-version-manager': '^1.0.4',
+91 silly install resolved        untildify: '~2.1.0',
+91 silly install resolved        which: '^1.2.4' },
+91 silly install resolved     devDependencies:
+91 silly install resolved      { 'eslint-config-mongodb-js': '^2.0.0',
+91 silly install resolved        'github-release': '~0.2.0',
+91 silly install resolved        gulp: '~3.9.0',
+91 silly install resolved        'kill-mongodb': '^0.0.1',
+91 silly install resolved        lone: '~0.4.2',
+91 silly install resolved        mocha: '^2.3.4',
+91 silly install resolved        'mongodb-js-fmt': '0.0.3',
+91 silly install resolved        'mongodb-js-precommit': '^0.2.8',
+91 silly install resolved        'pre-commit': '^1.1.2',
+91 silly install resolved        tmp: '0.0.28' },
+91 silly install resolved     engines: { node: '>=4.0.0' },
+91 silly install resolved     gitHead: 'd70c648b29b419a2b579f14e8b15301fbc101fac',
+91 silly install resolved     bugs: { url: 'https://github.com/mongodb-js/runner/issues' },
+91 silly install resolved     _id: 'mongodb-runner@3.2.0',
+91 silly install resolved     _shasum: '0c184a1e35f7aed19bc2d868ff5af36b23de590a',
+91 silly install resolved     _from: 'mongodb-runner@latest',
+91 silly install resolved     _npmVersion: '3.3.12',
+91 silly install resolved     _nodeVersion: '5.4.1',
+91 silly install resolved     _npmUser: { name: 'imlucas', email: 'hrabovsky.lucas@gmail.com' },
+91 silly install resolved     dist:
+91 silly install resolved      { shasum: '0c184a1e35f7aed19bc2d868ff5af36b23de590a',
+91 silly install resolved        tarball: 'http://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz' },
+91 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+91 silly install resolved     _npmOperationalInternal:
+91 silly install resolved      { host: 'packages-13-west.internal.npmjs.com',
+91 silly install resolved        tmp: 'tmp/mongodb-runner-3.2.0.tgz_1458524451330_0.87517453962937' },
+91 silly install resolved     directories: {},
+91 silly install resolved     _resolved: 'https://registry.npmjs.org/mongodb-runner/-/mongodb-runner-3.2.0.tgz' },
+91 silly install resolved   { name: 'parse',
+91 silly install resolved     version: '1.8.1',
+91 silly install resolved     description: 'The Parse JavaScript SDK',
+91 silly install resolved     homepage: 'https://www.parse.com',
+91 silly install resolved     keywords: [ 'cloud', 'mobile', 'api' ],
+91 silly install resolved     license: 'BSD-3-Clause',
+91 silly install resolved     repository:
+91 silly install resolved      { type: 'git',
+91 silly install resolved        url: 'git+https://github.com/ParsePlatform/Parse-SDK-JS.git' },
+91 silly install resolved     bugs: { url: 'https://github.com/ParsePlatform/Parse-SDK-JS/issues' },
+91 silly install resolved     files:
+91 silly install resolved      [ 'index.js',
+91 silly install resolved        'node.js',
+91 silly install resolved        'react-native.js',
+91 silly install resolved        'dist/',
+91 silly install resolved        'lib/',
+91 silly install resolved        'LICENSE',
+91 silly install resolved        'PATENTS',
+91 silly install resolved        'README.md' ],
+91 silly install resolved     browser: { 'react-native': false },
+91 silly install resolved     dependencies:
+91 silly install resolved      { 'babel-runtime': '^5.8.20',
+91 silly install resolved        events: '^1.1.0',
+91 silly install resolved        ws: '^1.0.1',
+91 silly install resolved        xmlhttprequest: '^1.7.0' },
+91 silly install resolved     devDependencies:
+91 silly install resolved      { 'babel-jest': '~5.3.0',
+91 silly install resolved        'babel-plugin-flow-comments': '^1.0.9',
+91 silly install resolved        'babel-plugin-inline-package-json': '~1.0.1',
+91 silly install resolved        browserify: '^11.0.1',
+91 silly install resolved        'codecov.io': '^0.1.6',
+91 silly install resolved        gulp: '^3.9.0',
+91 silly install resolved        'gulp-babel': '^5.2.0',
+91 silly install resolved        'gulp-derequire': '^2.1.0',
+91 silly install resolved        'gulp-insert': '^0.5.0',
+91 silly install resolved        'gulp-rename': '^1.2.2',
+91 silly install resolved        'gulp-replace': '^0.5.4',
+91 silly install resolved        'gulp-uglify': '^1.4.0',
+91 silly install resolved        'jasmine-reporters': '~1.0.0',
+91 silly install resolved        'jest-cli': '~0.5.0',
+91 silly install resolved        'vinyl-source-stream': '^1.1.0' },
+91 silly install resolved     scripts:
+91 silly install resolved      { build: './build_releases.sh',
+91 silly install resolved        release: './build_releases.sh && npm publish',
+91 silly install resolved        test: 'PARSE_BUILD=node jest' },
+91 silly install resolved     jest:
+91 silly install resolved      { collectCoverage: true,
+91 silly install resolved        testPathDirs: [Object],
+91 silly install resolved        testPathIgnorePatterns: [Object],
+91 silly install resolved        scriptPreprocessor: 'node_modules/babel-jest',
+91 silly install resolved        setupTestFrameworkScriptFile: 'setup-jest.js' },
+91 silly install resolved     gitHead: '9c1c9fe53de4e164f8cef57a6fc428abd3391dfc',
+91 silly install resolved     _id: 'parse@1.8.1',
+91 silly install resolved     _shasum: 'a4bc8886c4715344a388634aad696b11c3ff43b5',
+91 silly install resolved     _from: 'parse@latest',
+91 silly install resolved     _npmVersion: '3.3.8',
+91 silly install resolved     _nodeVersion: '4.2.1',
+91 silly install resolved     _npmUser: { name: 'andrewimm', email: 'andrewi@fb.com' },
+91 silly install resolved     dist:
+91 silly install resolved      { shasum: 'a4bc8886c4715344a388634aad696b11c3ff43b5',
+91 silly install resolved        tarball: 'http://registry.npmjs.org/parse/-/parse-1.8.1.tgz' },
+91 silly install resolved     maintainers: [ [Object], [Object], [Object], [Object], [Object], [Object] ],
+91 silly install resolved     _npmOperationalInternal:
+91 silly install resolved      { host: 'packages-12-west.internal.npmjs.com',
+91 silly install resolved        tmp: 'tmp/parse-1.8.1.tgz_1458372687654_0.7000559791922569' },
+91 silly install resolved     directories: {},
+91 silly install resolved     _resolved: 'https://registry.npmjs.org/parse/-/parse-1.8.1.tgz' } ]
+92 info install mongodb-runner@3.2.0 into /usr/local/lib
+93 info install parse@1.8.1 into /usr/local/lib
+94 info installOne mongodb-runner@3.2.0
+95 verbose installOne of mongodb-runner to /usr/local/lib not in flight; installing
+96 verbose correctMkdir /Users/Hayden/.npm/_locks correctMkdir not in flight; initializing
+97 info installOne parse@1.8.1
+98 verbose installOne of parse to /usr/local/lib not in flight; installing
+99 verbose correctMkdir /Users/Hayden/.npm/_locks correctMkdir already in flight; waiting
+100 verbose makeDirectory /Users/Hayden/.npm/_locks creation not in flight; initializing
+101 silly makeDirectory /Users/Hayden/.npm/_locks uid: 501 gid: 20
+102 verbose lock using /Users/Hayden/.npm/_locks/mongodb-runner-e0dc9195fc5f4b26.lock for /usr/local/lib/node_modules/mongodb-runner
+103 silly install write writing mongodb-runner 3.2.0 to /usr/local/lib/node_modules/mongodb-runner
+104 verbose lock using /Users/Hayden/.npm/_locks/parse-01878cfa08510bee.lock for /usr/local/lib/node_modules/parse
+105 silly install write writing parse 1.8.1 to /usr/local/lib/node_modules/parse
+106 verbose unbuild lib/node_modules/mongodb-runner
+107 verbose unbuild lib/node_modules/parse
+108 silly gentlyRm /usr/local/lib/node_modules/mongodb-runner is being purged from base /usr/local
+109 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/mongodb-runner
+110 silly gentlyRm /usr/local/lib/node_modules/parse is being purged from base /usr/local
+111 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/parse
+112 verbose tar unpack /Users/Hayden/.npm/mongodb-runner/3.2.0/package.tgz
+113 verbose tar unpacking to /usr/local/lib/node_modules/mongodb-runner
+114 silly gentlyRm /usr/local/lib/node_modules/mongodb-runner is being purged
+115 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/mongodb-runner
+116 verbose tar unpack /Users/Hayden/.npm/parse/1.8.1/package.tgz
+117 verbose tar unpacking to /usr/local/lib/node_modules/parse
+118 silly gentlyRm /usr/local/lib/node_modules/parse is being purged
+119 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/parse
+120 silly gunzTarPerm modes [ '755', '644' ]
+121 silly gunzTarPerm modes [ '755', '644' ]
+122 error tar.unpack untar error /Users/Hayden/.npm/mongodb-runner/3.2.0/package.tgz
+123 error tar.unpack untar error /Users/Hayden/.npm/parse/1.8.1/package.tgz
+124 verbose unlock done using /Users/Hayden/.npm/_locks/mongodb-runner-e0dc9195fc5f4b26.lock for /usr/local/lib/node_modules/mongodb-runner
+125 verbose unlock done using /Users/Hayden/.npm/_locks/parse-01878cfa08510bee.lock for /usr/local/lib/node_modules/parse
+126 verbose fstream_path /usr/local/lib/node_modules/mongodb-runner
+127 verbose fstream_type Directory
+128 verbose fstream_class DirWriter
+129 verbose stack Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/mongodb-runner'
+129 verbose stack     at Error (native)
+130 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25
+130 verbose fstream_stack /usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53
+130 verbose fstream_stack FSReqWrap.oncomplete (fs.js:82:15)
+131 verbose cwd /Users/Hayden/Documents/mettmoon.github.io
+132 error Darwin 15.4.0
+133 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "-g" "parse" "-server" "mongodb-runner"
+134 error node v4.4.1
+135 error npm  v2.14.20
+136 error path /usr/local/lib/node_modules/mongodb-runner
+137 error code EACCES
+138 error errno -13
+139 error syscall mkdir
+140 error Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/mongodb-runner'
+140 error     at Error (native)
+140 error  { [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules/mongodb-runner']
+140 error   errno: -13,
+140 error   code: 'EACCES',
+140 error   syscall: 'mkdir',
+140 error   path: '/usr/local/lib/node_modules/mongodb-runner',
+140 error   fstream_type: 'Directory',
+140 error   fstream_path: '/usr/local/lib/node_modules/mongodb-runner',
+140 error   fstream_class: 'DirWriter',
+140 error   fstream_stack:
+140 error    [ '/usr/local/lib/node_modules/npm/node_modules/fstream/lib/dir-writer.js:35:25',
+140 error      '/usr/local/lib/node_modules/npm/node_modules/mkdirp/index.js:47:53',
+140 error      'FSReqWrap.oncomplete (fs.js:82:15)' ] }
+141 error Please try running this command again as root/Administrator.
+142 verbose exit [ -13, true ]
+143 verbose unbuild lib/node_modules/mongodb-runner
+144 silly gentlyRm /usr/local/lib/node_modules/mongodb-runner is being purged from base /usr/local
+145 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/mongodb-runner
+146 verbose unbuild lib/node_modules/parse
+147 silly gentlyRm /usr/local/lib/node_modules/parse is being purged from base /usr/local
+148 verbose gentlyRm don't care about contents; nuking /usr/local/lib/node_modules/parse
