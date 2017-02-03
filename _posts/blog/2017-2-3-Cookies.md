@@ -10,7 +10,7 @@ URLSession 이라던지 UIWebView라던지 앱실행시 얻은 쿠키(세션)는
 
 쿠키를 저장하여 재활용하는 방법은 헤더에 얹혀서 보내는것도 있지만 쿠키로 관리되진않으니 HTTPCookieStorage를 건드려서 관리해야한다. 
 
-```
+```Swift
 extension HTTPCookieStorage {
     static func clear(){
         if let cookies = HTTPCookieStorage.shared.cookies {
