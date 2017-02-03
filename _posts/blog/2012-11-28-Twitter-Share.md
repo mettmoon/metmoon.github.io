@@ -13,7 +13,7 @@ tags: [iOS]
 
 구현을 원하는 클래스에서
 
-```
+```objective_c
 #import <Twitter/Twitter.h>
 ```
 
@@ -21,7 +21,7 @@ tags: [iOS]
 
 코드는 
 
-```
+```objective_c
     TWTweetComposeViewController *viewController = [[TWTweetComposeViewController alloc] init];
     [viewController addImage:UIImage객체];
     [self presentModalViewController:viewController animated:YES];
@@ -35,7 +35,7 @@ tags: [iOS]
 텍스트 추가, 이미지추가, URL추가하는 기능은 다음과 같으며
 *TWTweetComposeViewController.h* 를 참고하면됩니다.
 
-```
+```objective_c
 - (BOOL)setInitialText:(NSString *)text;
 - (BOOL)addImage:(UIImage *)image;
 - (BOOL)addURL:(NSURL *)url;

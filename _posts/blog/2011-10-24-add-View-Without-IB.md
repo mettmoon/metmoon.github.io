@@ -21,7 +21,7 @@ tags: [ios]
 
 **AppDelegate.m**
 
-```
+```objective_c
 #import "AppDelegate.h"
 #import "RootViewController.h" //ViewController인 클래스
 RootViewController *rootViewController; // 전역변수 선언. 안쓰고 메서드에서 인스턴스해도 무관
@@ -41,7 +41,7 @@ RootViewController *rootViewController; // 전역변수 선언. 안쓰고 메서
 
 **RootViewContoller.m**
 
-```
+```objective_c
 - (void)viewDidLoad
 {
     self.view.backgroundColor = [UIColor redColor];//뷰가 추가되었는지 확인하기 위해 배경색을 빨강으로 지정

@@ -11,7 +11,7 @@ tags: [ios]
 *NSArray* 와 *NSDictionary*를 초기화 할때 대표적으로 *initWithObjects*와 *initWithObjectsAndKeys*으로  다음과 같은 방법을 사용하는데요
 
 
-```
+```objective_c
     NSArray *array = [[NSArray alloc] initWithObjects:@"object1",@"object2",@"object3", nil];
     NSDictionary *dictionary = [[NSDictionary alloc] initWithObjectsAndKeys:
                                 @"object1",@"key1"
@@ -27,7 +27,7 @@ tags: [ios]
 
 다음과 같이 하면 편하게 할수있습니다.
 
-```
+```objective_c
     NSArray *array = @[@"object1",@"object2", @"object3"];
     NSDictionary *dictionary = @{@"key1": @"object1"
                                  , @"key2":@"object2"
@@ -37,14 +37,14 @@ tags: [ios]
 
 추가적으로 와 에 있는 객체를 불러들일때 대표적으로 objectAtIndex와 objectForKey를 다음과 같이 사용하는데요 
 
-```
+```objective_c
     id object = [array objectAtIndex:0];
     id object = [dictionary objectForKey:@"key1"];
 ```
 
 이또한 다음과 같이 간단하게 사용할수 있습니다.
 
-```
+```objective_c
     id object = array[0];
     id object = dictionary[@"key"];
 ```

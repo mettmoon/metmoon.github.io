@@ -9,14 +9,14 @@ tags: [ios]
 
 소스
 
-```
+```objective_c
     NSString *modelName = [[UIDevice currentDevice] model];
     NSLog(@"modelName is %@",modelName);
 ```
 
 콘솔창
 
-```
+```objective_c
 2011-11-02 16:03:49.186 ClassPractice[9947:707] modelName is iPhone
 ```
 

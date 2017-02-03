@@ -56,7 +56,7 @@ extension HTTPCookieStorage {
 
 위와 같은 extension을 작성하여 다음과 같이 사용할 수 있다.
 
-```
+```swift
 HTTPCookieStorage.restore()//앱실행시 호출하여 기존 쿠키를 불러온다.
 HTTPCookieStorage.save() //쿠키를 얻고 난후 호출하여 쿠키를 저장한다.
 HTTPCookieStorage.clear() //로그아웃이나 세션 만료시 저장된 쿠키를 삭제한다.(사이트주소가 바뀐다거나 하면서 쿠키가 누적될수 있다.)

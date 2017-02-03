@@ -12,7 +12,7 @@ tags: [ios]
 
 **UIImageView의 헤더**
 
-```
+```objective_c
 @property(nonatomic,copy) NSArray *animationImages;            // The array must contain UIImages. Setting hides the single image. default is nil
 @property(nonatomic,copy) NSArray *highlightedAnimationImages NS_AVAILABLE_IOS(3_0);            // The array must contain UIImages. Setting hides the single image. default is nil
 
@@ -26,7 +26,7 @@ tags: [ios]
 
 **예제**
 
-```
+```objective_c
     UIImageView* animatedImageView = [[UIImageView alloc] initWithFrame:self.view.frame];
     
     animatedImageView.animationImages = [NSArray arrayWithObjects:

@@ -11,7 +11,7 @@ Objective-c 혹은 Swift에서 문자열 사이에 특정문자를 넣는 방법
 extension이나 category로 구현했습니다.
 
 ### Swift
-```Swift
+```swift
 
 extension String{
     func stringDashAdded() -> String{
@@ -39,7 +39,7 @@ extension String{
 
 
 ### Objective-C
-```Objective-C
+```objective_c
 
 @implementation NSString (AddDash)
 

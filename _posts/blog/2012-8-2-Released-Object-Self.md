@@ -10,7 +10,7 @@ tag: [ios]
 자세한 코드는 다음과 같다.
 
 
-```
+```objective_c
 @interface FavoriteSimpleNumViewCtrl : UIViewController
 {
     NSMutableArray *testArray;
@@ -38,10 +38,13 @@ tag: [ios]
 
 답은 간단하였다. 객체인 `testArray`를 `alloc` 을 해주지 않았기 때문이다. `alloc` 을 안할경우 `autorelease`가 되는데 이는 함수호출이 끝났을경우 자동으로 `release`를 해준다. 
 
-
-`testArray = [NSMutableArray array];`
+```objective_c
+testArray = [NSMutableArray array];
+```
 이 줄을
-`testArray = [[NSMutableArray alloc] initWithObjects:nil];`
+```objective_c
+testArray = [[NSMutableArray alloc] initWithObjects:nil];
+```
 로 바꿔주면 되겠다.
 
 
