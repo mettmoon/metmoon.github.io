@@ -5,7 +5,7 @@ category: project
 tags: [ios,iphone]
 
 ---
-![개미들마을](/images/project/ants_village_01.jpg)
+![개미들마을](/images/project/ants_village_01.png)
 
 ### Application Name
 
